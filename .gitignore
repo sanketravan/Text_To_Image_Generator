@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+
+# AI Models
+*.safetensors
+*.ckpt
+
+# Output
+output/
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Environment
+.env
